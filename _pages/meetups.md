@@ -10,11 +10,6 @@ author_profile: true
 Upcoming events
 ====
 
-[comment]: <> (| Date | Title | Speaker | RSVP | Content |)
-[comment]: <> (| :---: | :---: | :---: | :---: | :---: |)
-[comment]: <> (| :---: | :---: | :---: | :---: | :---: | :---: | :---: |)
-[comment]: <> (t.b.a.)
-
 | Date | Title | Speaker | RSVP | Content |
 | :---: | :---: | :---: | :---: | :---: |
 | June 15, 2023<br>Thursday, 4:30 PM (UK) | **Reflexion: Language Agents with Verbal Reinforcement Learning** | [Noah Shinn](https://noahshinn.com/) | [lu.ma](https://lu.ma/435fmttp) | t.b.a. |
