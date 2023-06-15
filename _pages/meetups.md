@@ -12,7 +12,7 @@ Upcoming events
 
 | Date | Title | Speaker | RSVP | Content |
 | :---: | :---: | :---: | :---: | :---: |
-| June 15, 2023<br>Thursday, 4:30 PM (UK) | **Reflexion: Language Agents with Verbal Reinforcement Learning** | [Noah Shinn](https://noahshinn.com/) | [lu.ma](https://lu.ma/435fmttp) | t.b.a. |
+| June 15, 2023<br>Thursday, 4:30 PM (UK) | **Reflexion: Language Agents with Verbal Reinforcement Learning** | [Noah Shinn](https://noahshinn.com/) | [lu.ma](https://lu.ma/435fmttp) | [Slides](/files/2023_06_15_noah_shinn.pdf) |
 | :---: | :---: | :---: | :---: | :---: |
 
 
