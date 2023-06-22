@@ -10,16 +10,17 @@ author_profile: true
 Upcoming events
 ====
 
-| Date | Title | Speaker | RSVP | Content |
-| :---: | :---: | :---: | :---: | :---: |
-| June 15, 2023<br>Thursday, 4:30 PM (UK) | **Reflexion: Language Agents with Verbal Reinforcement Learning** | [Noah Shinn](https://noahshinn.com/) | [lu.ma](https://lu.ma/435fmttp) | [Slides](/files/2023_06_15_noah_shinn.pdf) |
-| :---: | :---: | :---: | :---: | :---: |
-
+[comment]: <> (| Date | Title | Speaker | RSVP | Content |)
+[comment]: <> (| :---: | :---: | :---: | :---: | :---: |)
+[comment]: <> (| :---: | :---: | :---: | :---: | :---: | :---: | :---: |)
+t.b.a.
 
 Past events
 ====
 
 | Date | Title | Speaker | RSVP | Content |
+| :---: | :---: | :---: | :---: | :---: |
+| June 15, 2023<br>Thursday, 4:30 PM (UK) | **Reflexion: Language Agents with Verbal Reinforcement Learning** | [Noah Shinn](https://noahshinn.com/) | [lu.ma](https://lu.ma/435fmttp) | [Slides](/files/2023_06_15_noah_shinn.pdf) [Video](https://www.youtube.com/watch?v=kKNx64AmzwU) |
 | :---: | :---: | :---: | :---: | :---: |
 | Jan 17, 2023<br>Tuesday, 3:00 PM (UK) | **Thinking Like a Developer? Comparing the Attention of Humans with Neural Models of Code** | [Michael Pradel](https://software-lab.org/people/Michael_Pradel.html) | [lu.ma](https://lu.ma/us1o8niz?tk=1D6y50) | [Slides](/files/2023_17_1_michael_pradel.pdf) [Video](https://www.youtube.com/watch?v=XKGV4JnQZJk&t=164s)  |
 | :---: | :---: | :---: | :---: | :---: |
