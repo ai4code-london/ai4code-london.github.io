@@ -10,10 +10,12 @@ author_profile: true
 Upcoming events
 ====
 
-[comment]: <> (| Date | Title | Speaker | RSVP | Content |)
-[comment]: <> (| :---: | :---: | :---: | :---: | :---: |)
-[comment]: <> (| :---: | :---: | :---: | :---: | :---: | :---: | :---: |)
-t.b.a.
+| Date | Title | Speaker | RSVP | Content |
+| :---: | :---: | :---: | :---: | :---: |
+| July 27, 2023<br>Thursday, 5:00 PM (UK) | **TALM: Tool Augmented Language Models** | [Aaron Parisi](https://www.linkedin.com/in/aaron-parisi-3b5130116) | [lu.ma](https://lu.ma/mw5ppi46) | t.b.a. |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+[comment]: <> (t.b.a.)
 
 Past events
 ====
