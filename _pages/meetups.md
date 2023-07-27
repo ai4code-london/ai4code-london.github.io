@@ -12,7 +12,7 @@ Upcoming events
 
 | Date | Title | Speaker | RSVP | Content |
 | :---: | :---: | :---: | :---: | :---: |
-| July 27, 2023<br>Thursday, 5:00 PM (UK) | **TALM: Tool Augmented Language Models** | [Aaron Parisi](https://www.linkedin.com/in/aaron-parisi-3b5130116) | [lu.ma](https://lu.ma/mw5ppi46) | t.b.a. |
+| July 27, 2023<br>Thursday, 5:00 PM (UK) | **TALM: Tool Augmented Language Models** | [Aaron Parisi](https://www.linkedin.com/in/aaron-parisi-3b5130116) | [lu.ma](https://lu.ma/mw5ppi46) | [Slides](/files/2023_07_27_aaron_parisi.pdf) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 [comment]: <> (t.b.a.)
