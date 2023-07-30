@@ -9,18 +9,19 @@ author_profile: true
 
 Upcoming events
 ====
+t.b.a.
 
-| Date | Title | Speaker | RSVP | Content |
-| :---: | :---: | :---: | :---: | :---: |
-| July 27, 2023<br>Thursday, 5:00 PM (UK) | **TALM: Tool Augmented Language Models** | [Aaron Parisi](https://www.linkedin.com/in/aaron-parisi-3b5130116) | [lu.ma](https://lu.ma/mw5ppi46) | [Slides](/files/2023_07_27_aaron_parisi.pdf) |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-
+[comment]: <> (| Date | Title | Speaker | RSVP | Content |)
+[comment]: <> (| :---: | :---: | :---: | :---: | :---: |)
+[comment]: <> (| :---: | :---: | :---: | :---: | :---: | :---: | :---: |)
 [comment]: <> (t.b.a.)
 
 Past events
 ====
 
 | Date | Title | Speaker | RSVP | Content |
+| :---: | :---: | :---: | :---: | :---: |
+| July 27, 2023<br>Thursday, 5:00 PM (UK) | **TALM: Tool Augmented Language Models** | [Aaron Parisi](https://www.linkedin.com/in/aaron-parisi-3b5130116) | [lu.ma](https://lu.ma/mw5ppi46) | [Slides](/files/2023_07_27_aaron_parisi.pdf) [Video](https://www.youtube.com/watch?v=WTZGjbEDLrQ)|
 | :---: | :---: | :---: | :---: | :---: |
 | June 15, 2023<br>Thursday, 4:30 PM (UK) | **Reflexion: Language Agents with Verbal Reinforcement Learning** | [Noah Shinn](https://noahshinn.com/) | [lu.ma](https://lu.ma/435fmttp) | [Slides](/files/2023_06_15_noah_shinn.pdf) [Video](https://www.youtube.com/watch?v=kKNx64AmzwU) |
 | :---: | :---: | :---: | :---: | :---: |
